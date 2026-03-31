@@ -36,12 +36,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=<your-username>\&theme=radical)
-
----
-
 ## 📌 Featured Projects
 
 * 🚀 **Project 1** – Short description
