@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm <Manan Bathani>
+# 👋 Hi there....
 
 🎯 **About Me**
 
